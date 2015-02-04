@@ -34,7 +34,7 @@ var HangManCtrl = function($scope) {
 };
 ```
 
-Notice that the html has `ng-app` and `ng-controller`.  The `ng-controller` directive binds the div tag to the scope of the controller.  Now angular let's the view have access to the data and methods inside of the controller.  For example, to show the current word, the html would look like this:
+Notice that the html has `ng-app` and `ng-controller`.  The `ng-controller` directive binds the div tag to the scope of the controller.  Now angular lets the view have access to the data and methods inside of the controller.  For example, to show the current word, the html would look like this:
 
 
     <!DOCTYPE html>
